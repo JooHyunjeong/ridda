@@ -1,0 +1,17 @@
+/* styles.css */
+
+/* 탭을 가로로 나열하기 위한 CSS */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+}
